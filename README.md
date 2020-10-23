@@ -1,5 +1,5 @@
-# placar
+# FrescoGO! - Placar para o Controle
 
 ```
-$ processing-java --sketch=/data/frescogo/placar/placar --run
+$ processing-java --sketch=.../placar-controle/placar --run
 ```
